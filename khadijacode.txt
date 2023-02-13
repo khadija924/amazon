@@ -1,0 +1,19 @@
+1 amazon:
+3 team:4 developers
+4     ahmed:pc---> products
+5     ali  :pc---> orders
+6    mahmoud:pc----> payment
+7    hatem  :pc---> dashboard
+8 
+9
+10  issues:
+11  _ merge
+12  _ issue tracking
+13  _ versions
+14
+15   ---> developers ---> version control system vcs
+16  ---> linus : linux ---> 10M ----> ves : git
+17 -----------------------------
+18 strat New git project -----> git init
+19 track filles          -----> git add file_name .
+20 take backup           -----> git commit-m "---"   
